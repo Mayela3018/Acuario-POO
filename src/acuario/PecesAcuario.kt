@@ -1,4 +1,2 @@
 package acuario
 
-class PecesAcuario {
-}
